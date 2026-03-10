@@ -1,4 +1,3 @@
-# Welcome to your project
 
 # FounderFlow AI
 
