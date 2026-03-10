@@ -1,21 +1,24 @@
 # Welcome to your project
 
-## Project Development Guidelines
+# FounderFlow AI
 
-**⚠️ IMPORTANT: DO NOT MODIFY THESE FILES AND ROUTES**
+FounderFlow AI is an AI-powered sales co-pilot that helps startup founders discover high-quality B2B leads and generate personalized outreach.
 
-This document outlines the critical files, routes, and configurations that **must not be changed**. The platform relies on these specific structures to safely sync, build, and deploy your application. Modifying them will break the automated pipelines and platform integrations.
+## Features
 
-## Strict "Do Not Touch" List
+- AI Lead Discovery
+- Lead Scoring
+- CRM Lead Database
+- AI Email Outreach
+- AI LinkedIn Messages
+- AI Follow-up Messages
+- Sales Analytics Dashboard
 
-Modifying any of the following files will break the platform's ability to manage your project:
+## Tech Stack
 
-- `pnpm-lock.yaml`: (Never edit manually. Always use `pnpm add <package>`)
-- `package.json`: (Do not remove any dependencies)
-- `vite.config.ts`: (Contains critical build pipeline configs)
-- `eslint.config.js`: (Overrides will break deployment checks)
-- `backend/prisma/migrations/*`: (Never modify existing migrations)
-- `frontend/src/agentSdk/emitter.ts`: (Critical for AI agent connections)
+- Mattr AI App Builder
+- React + Vite
+- TypeScript
 
 ### Critical Backend Routes
 
