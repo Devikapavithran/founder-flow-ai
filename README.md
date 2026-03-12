@@ -1,5 +1,6 @@
 
 # FounderFlow AI
+Initial project setup: FounderFlow AI lead discovery and outreach platform
 
 FounderFlow AI is an AI-powered sales co-pilot that helps startup founders discover high-quality B2B leads and generate personalized outreach.
 
